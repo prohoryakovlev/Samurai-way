@@ -2,11 +2,9 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div>
             <header className="header">
-                <img src="https://incatalog.kz/uploads/posts/2020-06/1592758090_screenshot-1.png" alt=""/>
+                <img src="https://w7.pngwing.com/pngs/902/326/png-transparent-bmw-x1-car-bmw-i-bmw-3-series-bmw-emblem-trademark-logo.png" alt=""/>
             </header>
-        </div>
     );
 };
 

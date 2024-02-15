@@ -2,7 +2,6 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-        <div>
             <nav className="nav">
                 <div>
                     <a href="">
@@ -28,10 +27,8 @@ const Navbar = () => {
                     <a href="">
                         Settings
                     </a>
-                </div>
-
+                </div> 
             </nav>
-        </div>
     );
 };
 
